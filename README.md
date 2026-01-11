@@ -23,11 +23,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanika0004&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Kanika0004&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2 align="center">📌 Currently Learning</h2>
