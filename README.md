@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kanika+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Learning+%7C+Building+%7C+Growing
-" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+Kanika+%F0%9F%91%8B;Full+Stack+Developer;Exploring+AI%2FML+%26+Cybersecurity" />
 </p>
+
 
 <p align="center">
 🎓 B.Tech Computer Science Student <br/>
@@ -23,11 +23,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanika0004&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanika0004&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <h2 align="center">📌 Currently Learning</h2>
