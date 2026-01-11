@@ -1,33 +1,43 @@
-## Hi, I'm Kanika 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kanika+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Learning+%7C+Building+%7C+Growing
+" />
+</p>
 
-🎓 B.Tech Computer Science Student  
-💻 Full Stack Developer (React • Node.js)  
-🤖 Exploring AI/ML & Cybersecurity  
-🌱 Focused on learning and building consistently
+<p align="center">
+🎓 B.Tech Computer Science Student <br/>
+💻 Full Stack Developer (React • Node.js) <br/>
+🤖 Exploring AI/ML & Cybersecurity <br/>
+🌱 Focused on consistent learning and growth
+</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanika0004&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
+</p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Kanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanika0004E&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kanika0004&theme=tokyonight" />
+</p>
+
+<h2 align="center">📌 Currently Learning</h2>
+
+<p align="center">
+Deep Learning • Computer Vision
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
-**AI / Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
