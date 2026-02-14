@@ -23,7 +23,20 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kanika0004&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanika0004&layout=compact&theme=tokyonight" />
 </p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanika0004&theme=tokyo-night&hide_border=true" />
+</p>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kanika0004&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+
 
