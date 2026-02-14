@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+Kanika+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+Kanika+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&lines=Design.+Develop.+Deploy.;Consistency+beats+motivation.;Building+my+future+one+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&lines=Design.+Develop.+Deploy.;Consistency+beats+motivation.;Building+my+future+one+commit+at+a+time." />
 </p>
 
 <p align="center">
