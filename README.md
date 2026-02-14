@@ -31,12 +31,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanika0004&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanika0004&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+learning...;Always+building...;Always+improving..." />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
 
 
