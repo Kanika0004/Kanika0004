@@ -5,8 +5,8 @@
 <p align="center">
 🎓 B.Tech Computer Science Student <br/>
 💻 Full Stack Developer (React • Node.js) <br/>
-🤖 Exploring AI/ML & Cybersecurity <br/>
-🌱 Focused on consistent learning and growth
+🤖 Interested in AI/ML & Cybersecurity <br/>
+📫 Contact: kanika0004@gmail.com
 </p>
 
 <p align="center">
@@ -19,16 +19,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
 </p>
 
-<h2 align="center">📌 Currently Learning</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-Deep Learning • Computer Vision
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanika0004&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-
