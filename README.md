@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+Kanika+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Hi%2C+I'm+Kanika+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
@@ -31,8 +31,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanika0004&theme=tokyo-night&hide_border=true" />
 </p>
 
+<br/><br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Kanika&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6A5ACD&height=4&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&lines=Design.+Develop.+Deploy.;Consistency+beats+motivation.;Building+my+future+one+commit+at+a+time." />
+</p>
+
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
 </p>
 
 
