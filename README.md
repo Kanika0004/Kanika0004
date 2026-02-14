@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kanika0004&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanika0004&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanika0004&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+
 </p>
 
